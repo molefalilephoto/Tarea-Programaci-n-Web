@@ -1,4 +1,4 @@
-Deployed link: https://molefalilephoto.github.io/Tarea-Programaci-n-Web/
+Deployable link: https://molefalilephoto.github.io/Tarea-Programaci-n-Web/
 
 Reto #1
 Crear un portfolio básico usando solamente HTML/CSS/JS. No usar ninguna biblioteca de externa, framework, ni nada por CDN.
